@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: 'dbhx', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100%;
+  background-position: center;
+  background: #f0f2f5;
+  background-color: #f0f2f5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ant-form {
+  font-size: 26px;
+}
+
+.ant-form label {
+  font-size: 18px;
+}
+
+@font-face {
+  font-family: "dbhx";
+  src: url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-regular.eot");
+  src: url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-regular.woff") format("woff"), url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-regular.ttf") format("truetype"), url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-regular.svg#dbhx") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "dbhx";
+  src: url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-bold.eot");
+  src: url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-bold.woff") format("woff"), url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-bold.ttf") format("truetype"), url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-bold.svg#dbhx") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "dbhx";
+  src: url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-italic.eot");
+  src: url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-italic.woff") format("woff"), url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-italic.ttf") format("truetype"), url("https://srsuat.nostralogistics.com/font/dbhelvethaicax-italic.svg#dbhx") format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+
+.layout-title {
+  font-family: 'dbhx';
+  color: #20AF80;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.ant-checkbox-wrapper,
+.ant-select-item,
+.ant-select-tree {
+  font-size: 23px !important;
+}

@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "production": "nostra-line-official-l2",
+    "develop": "nostra-line-official-l2-dev",
+    "staging": "l2-hotfix"
+  }
+}
